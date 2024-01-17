@@ -117,7 +117,9 @@ h2, h3, h4 {
 @media screen (max-width: 400px) {
     h2, h3, h4 { 
         font-size: 16px; 
-    } 
+        padding-top: 5vh; 
+        padding-bottom: 5vh; 
+    }     
 
 .second_banner { 
     height: 20vh;
